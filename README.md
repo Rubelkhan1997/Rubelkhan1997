@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD Rubel Khan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shariyabd" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Rubelkhan1997" /> </p>
 <div align=center>
-  <img width=410 src="https://streak-stats.demolab.com/?user=shariyabd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shariyabd&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=410 src="https://streak-stats.demolab.com/?user=Rubelkhan1997&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Rubelkhan1997&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 - 🌱 I’m currently learning Laravel & Vue.js advance topic
