@@ -6,15 +6,11 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shariyabd&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-🌱 I’m currently learning Laravel & Vue.js advance topic
-
-👨‍💻 All of my projects are available at https://github.com/rubelkhan1997
-
-💬 Ask me about PHP, Laravel, GraphQL, REST APIs
-
-📫 How to reach me: eng.rubelkhan797991@gmail.com
-
-Connect with me:
+- 🌱 I’m currently learning Laravel & Vue.js advance topic
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me **eng.rubelkhan797991@gmail.com**
+  
+<h3 align="left">Connect with me:</h3>
 <p align="left"> 
   <a href="https://twitter.com/@rubelkhan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rubelkhan" height="30" width="40" />
@@ -33,13 +29,13 @@ Connect with me:
   </a> 
 </p>
   
-Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -64,31 +60,28 @@ Languages and Tools:
   </a> 
 </p>
 
-Recent Projects
-Chuzeday — Laravel, GraphQL API, MySQL
-Kormi24 — Laravel, GraphQL API, MySQL
-Rangs E-commerce — Laravel, REST API, MySQL
-Facme E-commerce — Laravel, REST API, MySQL
-Agradut Live Exam — Laravel, REST API, MySQL
-Tour Booking Platform (Snowsearch) — Laravel, REST API, MySQL
-Janomot News — PHP, Ajax, MySQL
+## 👨🏻‍🎓 Education
+- **Bachelor's in Computer Science**
+  - *Green University of Bangladesh*
+  - Purbachal American City, Kanchan, Rupganj, Narayanganj-1461, Dhaka, Bangladesh.
 
-👨🏻‍🎓 Education
-Bachelor's in Computer Science
-XYZ University, Dhaka, Bangladesh
+## 👨🏻‍🎓 Recent Projects
+- **Chuzeday — Laravel, GraphQL API, MySQL**
+- **Rangs E-commerce — Laravel, REST API, MySQL**
+- **Facme E-commerce — Laravel, REST API, MySQL**
+- **Tour Booking Platform (Snowsearch) — Laravel, REST API, MySQL**
+- **Janomot News — PHP, Ajax, MySQL**
 
-Languages
-🇧🇩 Bangla: Native
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Intermediate
-🇮🇳 Hindi: Intermediate
 
-🏴 English: Intermediate
+## Languages
 
-Sports / Games / Activities / Hobbies
-🏏 Cricket
-⚽ Football
-🏸 Badminton
-🏊‍♂️ Swimming
-🏃‍♂️ Running
-🚶‍♂️ Walking
-✈️ Travelling
+- 🇧🇩 **Bangla:** Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English:** Intermediate
+- 🇮🇳 **Hindi:** Intermediate
+
+
+## Sports / Games / Activities / Hobbies 
+- 🏸 Badminton
+- 🏊‍♂️ Swimming 
+- 🚶‍♂️ Walking
+- ✈️ Travelling
