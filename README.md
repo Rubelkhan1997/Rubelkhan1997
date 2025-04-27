@@ -53,7 +53,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/2232217?s=48&v=4" alt="aws" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -66,15 +66,14 @@
   - Purbachal American City, Kanchan, Rupganj, Narayanganj-1461, Dhaka, Bangladesh.
 
 ## 👨🏻‍🎓 Recent Projects
-- **Chuzeday — Laravel, GraphQL API, MySQL**
-- **Rangs E-commerce — Laravel, REST API, MySQL**
-- **Facme E-commerce — Laravel, REST API, MySQL**
-- **Tour Booking Platform (Snowsearch) — Laravel, REST API, MySQL**
-- **Janomot News — PHP, Ajax, MySQL**
+- **<a href="https://chuzeday.com">Chuzeday — Laravel, GraphQL API, MySQL</a>**
+- **<a href="https://kormi24.com">Kormi24 — Laravel, GraphQL API, MySQL</a>**
+- **<a href="https://shop.rangs.com.bd">Rangs E-commerce — Laravel, REST API, MySQL</a>**
+- **<a href="https://snowsearch.com.au">Tour Booking Platform (Snowsearch) — Laravel, REST API, MySQL</a>** 
+- **<a href="http://janomot.com">Janomot News — PHP, Ajax, MySQL</a>** 
 
 
 ## Languages
-
 - 🇧🇩 **Bangla:** Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English:** Intermediate
 - 🇮🇳 **Hindi:** Intermediate
